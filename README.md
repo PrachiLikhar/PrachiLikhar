@@ -98,12 +98,4 @@
 > _"Code with logic, design with heart, and grow with consistency."_ 🚀
 
 
-> _"Code with logic, design with heart, and grow with consistency."_ 🚀
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6a11cb,2575fc&height=120&section=footer"/>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6a11cb,2575fc&height=120&section=footer"/>
-</p>
+s
