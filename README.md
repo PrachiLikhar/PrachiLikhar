@@ -96,6 +96,3 @@
 ---
 
 > _"Code with logic, design with heart, and grow with consistency."_ 🚀
-
-
-s
