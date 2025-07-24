@@ -19,9 +19,7 @@
 - ⚡ Fun Fact: *I enjoy solving problems + designing beautiful UIs + sipping chai ☕*
 
 ---
-<p align="right">
-  <img src="https://raw.githubusercontent.com/Taniya23Y/Taniya23Y/output/github-contribution-grid-snake.svg" alt="snake" style="max-width: 200px; float: right;"/>
-</p>
+
 ## 🛠️ Tech Stack
 
 ### 👩‍💻 Programming Languages
