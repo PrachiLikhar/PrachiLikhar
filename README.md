@@ -88,7 +88,7 @@
 ## 🤝 Let’s Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/prachi-likhar-9616162a0/" target="_blank">
+  <a href="https://www.linkedin.com/in/prachi-likhar" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
